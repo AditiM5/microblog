@@ -1,8 +1,8 @@
 //Edit the below
 
-var contract = '0x526536ae14314790d82034043eea3ce54313f5e3';
+var contract = '0x684015BFeEb674a7497EaA8be1256810220aD57A';
 var maxPosts = 5;
-var twitter = 'SwaroopH';
-var facebook = 'SwaroopHegde';
-var github = 'SwaroopH';
+var twitter = 'aditi_malladi';
+var facebook = 'Aditi';
+var github = 'AditiM5';
 var prefix = 'https://alpha-api.ethvigil.com/contract/' + contract;
