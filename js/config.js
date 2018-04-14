@@ -1,6 +1,6 @@
 //Edit the below
 
-var contract = '0x684015BFeEb674a7497EaA8be1256810220aD57A';
+var contract = '0x684015bfeeb674a7497eaa8be1256810220ad57a';
 var maxPosts = 5;
 var twitter = 'aditi_malladi';
 var facebook = 'Aditi';
